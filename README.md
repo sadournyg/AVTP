@@ -20,8 +20,7 @@ AVTP111 est un site vitrine conçu pour une entreprise spécialisée dans les tr
 
 - **Prestations** : Une page détaillant les services proposés.
 - **À propos** : Une page présentant l'entreprise.
-- **Contact & Devis** :
-  - Un formulaire permettant aux clients de soumettre une demande de devis ou de contact.
+- **Contact & Devis** : Un formulaire permettant aux clients de soumettre une demande de devis ou de contact.
 
 ## Technologies utilisées
 
